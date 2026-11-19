@@ -22,6 +22,14 @@ Separately, I worked on a three-tier web application that retrieves user data an
 
 ## Projects
 
+### Shortly - URL Shortener
+
+A URL shortening application that generates unique short codes and redirects users to their original URLs. It uses Flask for the backend, PostgreSQL for persistent storage, and Redis for caching.
+
+**Technologies:** Python, Flask, PostgreSQL, Redis, Docker, Docker Compose, Railway.
+
+[Project documentation](https://nextwork.ai/kero/docs/02a35a5b-1d8b-43ee-9982-6ceef44145e5) · [Live demo](https://shortly-production-9ce7640d.up.railway.app/)
+
 ### Three-Tier Web Application
 
 A three-tier web application project from November 2026. The app retrieves and inserts user data through APIs, with the presentation, application logic, and data layers separated across AWS services.
@@ -65,6 +73,8 @@ A multi-role event platform for creating, booking, and managing events. I contri
 
 ## Find me online
 
+- [CV](assets/Kerolos_Isaac_CV.pdf)
+- [Portfolio site](https://kerolosisaac.netlify.app/)
 - [GitHub](https://github.com/Kero1O1)
 - [LinkedIn](https://linkedin.com/in/kerolosisaac)
 - [Email](mailto:kerolosibrahimbusi@gmail.com)
