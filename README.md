@@ -12,7 +12,7 @@ I hold AWS Certified Solutions Architect Associate and AWS Certified Cloud Pract
 
 ## What I'm working on
 
-I'm developing this portfolio as part of my cloud learning journey. The site is a static HTML, CSS, and JavaScript project, with Amazon S3 and CloudFront used for hosting and delivery. This portfolio is also a cloud learning project: static hosting on S3, global delivery through CloudFront, secure access and a future serverless visitor counter.
+I'm developing this portfolio as part of my cloud learning journey. The site is a static HTML, CSS, and JavaScript project. It was initially deployed using Amazon S3 and CloudFront and is currently hosted on a different platform. This portfolio was initially deployed using Amazon S3 and CloudFront and is currently hosted on a different platform. It remains a cloud learning project focused on static hosting, global delivery, secure access and a future serverless visitor counter.
 
 Separately, I worked on a three-tier web application that retrieves user data and inserts it through APIs. API Gateway and Lambda functions handle the application logic, with DynamoDB as the data tier. The presentation tier uses:
 
